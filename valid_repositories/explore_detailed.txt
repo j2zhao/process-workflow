@@ -1,0 +1,61 @@
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-ahmed-sumaiya - 31 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-AlexandreGaubil - 216 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-alexis-vitiello - 240 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-alexjsun - 78 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-AlgebraFalcon - 265 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-anke-hao - 518 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-damchauson - 500 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-eensdl - 355 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-ellienewman - 241 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-flabbyeric - 312 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-gerardbeck - 278 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-Hadleigh-Schwartz - 99 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-huangdaweiUCHICAGO - 191 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-hugo-chan - 46 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-jeterry -  352 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-jorlab1 - 1,059 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-kerryomalley - 189 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-kgumpula2 -  184 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-liu00david - 237 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-michaelyohannes123 - 814 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-moerus - 246 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-r-e-stern - 144 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-samseha -  152 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-saranya-turimella - 553 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-smfrye9755 - 260 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-tbglo37 - 338 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-TTmao - 35 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-ugbr - 379 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-vivianwu00 - 57 commits
+
+
+To be Noted
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-IrinaLee521
+- probably include
+- 511 commits
+- self commit with one line change in final commit -> a bit suspicious?
+
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-farm-zaq
+- probably include
+- 298 commits
+- Changed gitignore to get rid of temp files
+
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-gkaur2001
+- May include, but probably used Jupyter Notebooks
+- Significant changes in last commit
+- 241 commits
+- https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-gkaur2001/commit/ff23f0100062063fd3308b38eaf54e1d6ff9845b
+
+
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-samielahi
+- https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-samielahi/commit/34f6c5a3ff4ff9c8f022dc7e844523d37c470829
+- Interspersed Commit
+- 675 commits
+- Probably Okay
+
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-shanyuh
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-yichenzhu
+- Merge pull request #2 from CMSC-21800-Fall-2021/master
+- Merge branch 'main' of https://github.com/CMSC-21800-Fall-2021/final-…
+- Both have merges
+- Both have clear evidence of Jupiter notebooks but have 409 commits, and 146 commits respectively
