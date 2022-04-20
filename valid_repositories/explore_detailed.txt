@@ -4,7 +4,7 @@ https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-alexis-vi
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-alexjsun - 78 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-AlgebraFalcon - 265 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-anke-hao - 518 commits
-https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-damchauson - 500 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-damchauson - 500 commits -> jupyter
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-eensdl - 355 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-ellienewman - 241 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-flabbyeric - 312 commits
@@ -16,12 +16,13 @@ https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-jeterry -
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-jorlab1 - 1,059 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-kerryomalley - 189 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-kgumpula2 -  184 commits
-https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-liu00david - 237 commits
+https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-liu00david - 237 commits -> jupyter + errors
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-michaelyohannes123 - 814 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-moerus - 246 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-r-e-stern - 144 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-samseha -  152 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-saranya-turimella - 553 commits
+- One commit deleted data.csv file -> probably just remote -> not sure why??
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-smfrye9755 - 260 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-tbglo37 - 338 commits
 https://github.com/CMSC-21800-Fall-2021/final-project-data-exploration-TTmao - 35 commits
